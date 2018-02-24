@@ -1,0 +1,54 @@
+[33mcommit afeac2432abda45c088354395327a19ab6c122e4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 14:16:45 2018 +0100
+
+    summary
+
+[33mcommit 339e5e33d3e8351e83b49cce0103e88b49ee9a30[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 14:07:26 2018 +0100
+
+    summary
+
+[33mcommit 5e06e6672fc82984bb6859b3d958ebab47833e14[m
+Merge: 0819505 6f8e5a9
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 12:48:57 2018 +0100
+
+    merged master with alfa-version
+
+[33mcommit 6f8e5a9f1fc70e941b731e739c0d9996e37fbc42[m[33m ([m[1;31morigin/alfa-version[m[33m, [m[1;32malfa-version[m[33m)[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 12:34:23 2018 +0100
+
+    tytyuł dla trzeciej gałęci
+
+[33mcommit 08195055950bfd1d746c0f6b0ced9dec561f6553[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 12:30:51 2018 +0100
+
+    wprowadzenie trzeciej zmiany
+
+[33mcommit 11c4408a7be520f46e5c9be3939cefd3432da635[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 12:21:16 2018 +0100
+
+    wprowadzono nową zmianę tym razem w gałęzi alfa
+
+[33mcommit 727944c20ac0a5e4848c6e1c6fd667b33732d7a5[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 12:07:12 2018 +0100
+
+    Wprowadzono kolejną zmianę tym razem na gałęzi alfa-version
+
+[33mcommit ef788ffb00164c722cf2e9acd958849d82562279[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 11:27:18 2018 +0100
+
+    kolejna zmiana na galezi master
+
+[33mcommit 70cd0ac4d8c23134fb01f7b970156479742e3bd7[m
+Author: kinga <kingakor@o2.pl>
+Date:   Sat Feb 24 11:21:26 2018 +0100
+
+    Dodano pierwszy paragraf na gałęzi master

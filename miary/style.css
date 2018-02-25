@@ -13,3 +13,26 @@ font-size: 20px;}
 #em {
     width: 2em;
 }
+
+#ex {
+    width:20ex;
+}
+
+#rem {
+    width:20rem;
+}
+/*rem=font-size elementu html, 3rem=3*font-size elementu*/
+
+#procenty {width: 50%;}
+
+#vw {width: 60vw;}
+
+#vh {width:60vh;}
+
+#vmin {width:60vmin;}
+
+#vmax {width:60vmax;}
+
+#inch {width: 4in;}
+
+#cm {width:20;}

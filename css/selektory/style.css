@@ -74,3 +74,28 @@ link a [href="http://google.pl"]{
 
 
 
+/*elementy liniowe układają się obo siebie, a blokowe jedne pod drugim.
+pozycja relatywNa. Każdy element blokowy zajmuje okreśłoną pozycje. mIMO ŻE przniose blok, to w jego pierwotnym miejscy bytowania nie może nic 
+wskoczyć, Pozycjonowanie relatywne nie zmienia pozycji dokumneti*/
+
+
+/*pozycjonowanie aksolutne - element nie ma rezerwacji miejsca pierwotnego. Jeśli przesuwam element to na miejsce zwolnione wjeźdza inny element*/
+
+
+/*pozycjonowanie fixet - umożliwia pozycjonowanie względem okna przeglądarki. Na przykład element blokowy przestaje mieć 100%szerokości rodzica dlatego trzeba nadać szerokość, domyślnie ma na przykład 0px, To odnosi się też do absolite */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

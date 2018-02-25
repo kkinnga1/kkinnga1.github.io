@@ -1,0 +1,21 @@
+#green {
+    width:400px;
+    height:400px;
+    background-color:green;
+    color: #fff;
+    position:relative;
+    top:150px;
+    left:80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*nadanie rozicowi wartości relatice, wskazuje na to jak będzie pozycjonowany element blokowy o wartości absolute. Jest pozycjonowany względem tego co relative. Jak nie ma relative tzn że element jest pozycjonowany względem body*/

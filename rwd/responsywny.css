@@ -1,0 +1,22 @@
+@media (min-width:992px) and (max-width:1170px) {
+    body {
+        background-image: url(man-2.jpg);
+    }
+    h2 {
+        float: right;
+    }
+}
+
+@media (max-width:991px) {
+    body {
+        background-image: url(man-1.jpg);
+        height: 50%;
+    }
+    h2 {
+        float: none;
+        text-align: center;
+        margin-top: 90%;
+        color: black;
+        font-size: 1, 4 em
+    }
+}

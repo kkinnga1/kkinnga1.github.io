@@ -1,0 +1,29 @@
+body: {background-color:red;}
+
+#p4::first-line {color:yellow;}
+
+
+a:link {color:black;}
+
+
+a:hover {
+    color:green;
+}
+
+a:visited {
+    color:red;
+}
+
+
+
+#p1:target {color:red;}
+
+
+
+div:nth-child(even) {background-color:red;}
+
+
+div:nth-child(odd) {background-color:yellow;}
+
+div:nth-child(5n+4) {background-color: pink;}
+

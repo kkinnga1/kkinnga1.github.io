@@ -1,0 +1,16 @@
+@keyframes resize {
+    0%, 100%{
+        height:300px;
+        
+    }
+    50%  {
+        height:50px;
+    }
+    
+}
+
+.animation img {
+    animation-name:resize;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+}

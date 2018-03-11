@@ -2,24 +2,26 @@
 
 var imiona = ['Adam', 'Marta', 'Pawel', 'Michal', 'Kasia', 'Sandra'];
 console.log(imiona[0], imiona[3]);
+//jelsi chce się odniesc do konkretnej wartosci console.log(imiona[2]); czyli teraz biore trzeci element z tablicy 
 
 imiona[6]="Mikołaj";
 imiona[7]="Kinga";
 
 imiona.push("Kamil", "Krzysztof", "Marcin");
-//metody wykonujemy z apomocąkropki
+//metody wykonujemy z apomocąkropki .push dodaje kolejny element
 imiona.push("Marcin");
 
 imiona.pop();
 //metoda .pop usuwa ostatni element z tablicy
 imiona.pop();
+//usunięcie konkreetnej wartosci z tablicy - w domku trzeba sprawdzic
 
 
 //dodanie elementó z początku tablicy
 imiona.unshift("Sebastian");
 imiona.unshift("Małgosia");
 
-//metoda usuwająca element z początku tablicy
+//metoda usuwająca element z początku tablicy, nie przypisujemu jej zadnej wartosci
 imiona.shift();
 //usuneliśmy małgosie
 
@@ -45,4 +47,22 @@ console.log(textZTablicy)
 var elementyTablicyString = imiona.join(", ");
 console.log(elementyTablicyString);
 
+
+//odwrócenie tablicy 
+imiona.reverse();
+console.log(imiona);
+
+
+
+//sortowanie tablicy
+
+imiona.sort();
+console.log(imiona);
+
+
+
+
+//sprawdzenie zawartosci w tbalicy-funkcja zwróci indeks tablicy pod którą wartosc istnieje, jak nie ma to wyświetli -1
+//potem sprawdza się czy coś jest różne od -1 a nie od 0, bo zero to indeks, a -1 zznaczy żę czegos nie ma w tbalicy
+console.log(imiona.indexOf("Sandra"));
 

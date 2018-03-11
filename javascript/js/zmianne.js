@@ -11,3 +11,5 @@ console.log(imie);
 //;aczenie zmiennych
 var laczenieTekstu = "Moje imię to:" + imie + " a nazwisko to:" + nazwisko;
 console.log(laczenieTekstu);
+
+

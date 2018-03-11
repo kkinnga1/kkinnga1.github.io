@@ -14,7 +14,7 @@ imiona.push("Marcin");
 imiona.pop();
 //metoda .pop usuwa ostatni element z tablicy
 imiona.pop();
-//usunięcie konkreetnej wartosci z tablicy - w domku trzeba sprawdzic
+//usunięcie konkreetnej wartosci z tablicy - w domku trzeba sprawdzic  metopda splice
 
 
 //dodanie elementó z początku tablicy

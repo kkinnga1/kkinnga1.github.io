@@ -25,3 +25,6 @@ var iter = 28;
       } ease {
           console.log("Iteracja nr" + i);
   }      }
+
+
+

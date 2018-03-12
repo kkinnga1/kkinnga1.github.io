@@ -7,7 +7,6 @@
 //obiekt może posiadać metody - dizałania wykonywan ena obiektach 
 //this.name 
 //klucze nie musząmieć ciapków, ale string tak
-
 var obiekt = {
     name: "Pierwszy mój obiekt",
     height: 180,
@@ -17,6 +16,8 @@ var obiekt = {
 }
 
 obiekt.print();
+
+
 
 //this.name odnosi się do metody zawartej w obiekcie, a nie do globalnej
 

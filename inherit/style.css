@@ -1,0 +1,15 @@
+/*Właściwość inherit stosuję gdy chce żeby dany element (któy jest bezpośrednim dzieckiem) odziedziczył wartość która normalnie domyślnie dziedziczonna nie jest. Na przykład nie dziedziczy się border. W związku z czym jesli chce żeby border się jednak odzeidziczyła to wpisuje dla elementu wartosc inhetrit*/
+
+
+
+
+body { 
+background-color: red;
+border: solid black 5px;
+padding:20px;
+box-sizing: border-box;
+}
+
+.paragraf_pierwszy {
+    border:inherit;
+}

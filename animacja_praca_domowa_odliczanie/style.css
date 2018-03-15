@@ -1,0 +1,34 @@
+.odliczanie {
+    position:relative; height:100px; width:500px; background-color:black; color:white; font-size: 50px; text-align: center; overflow:hidden;
+   
+}
+.numer {
+    position:absolute; height:100%; width:100%; background:black; transform:translateY(-100%); z-index:10;
+}
+
+@keyframes odliczanie {
+  0% {transform:translateY(-100%); z-index:20;}
+  10%{transform:translateY(0);}
+    20% {transform:translateY(0);}
+    30% {transform:translateY(0);}
+    40% {transform:translateY(0);}
+    50% {transform:translateY(0);}
+    60% {transform:translateY(0);}
+    70% {transform:translateY(0);}
+    80% {transform:translateY(0);}
+    90% {transform:translateY(0);}
+      100% {transform:translateY(100%); z-index:0;}
+}
+
+.numer {animation: odliczanie 1s linear;}
+.numer:nth-of-type(0) {animation-delay:1s;}
+.numer:nth-of-type(2) {animation-delay:1s;}
+.numer:nth-of-type(3) {animation-delay:2s;}
+.numer:nth-of-type(4) {animation-delay:3s;}
+.numer:nth-of-type(5) {animation-delay:4s;}
+.numer:nth-of-type(6) {animation-delay:5s;}
+.numer:nth-of-type(7) {animation-delay:6s;}
+.numer:nth-of-type(8) {animation-delay:7s;}
+.numer:nth-of-type(9) {animation-delay:8s;}
+.numer:nth-of-type(10) {animation-delay:9s;}
+.numer:nth-of-type(11) {animation-delay:10s;}

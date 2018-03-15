@@ -74,3 +74,4 @@ console.log ("Wartość otrzymana z pomnożenia trzech liczb wynosi" + " " + obl
 
 
 
+

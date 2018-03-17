@@ -34,5 +34,21 @@ console.log(window);
 console.log(window.innerWidth);
 console.log(window.innerHeight);
 console.log(window.document);
-//obiektu document zazwyczaj uzywa się do odniesienia sie do elementu html a window do rozpoznania szerookosci ekranu, rozpoznania jak daleko jest sie od gorys trony 
-//
+//obiektu document zazwyczaj uzywa się do odniesienia sie do elementu html a window do rozpoznania szerookosci ekranu, rozpoznania jak daleko jest sie od gory strony 
+//getElementById
+//getElementsByClassName
+//getElementsByTagName
+//quertSelectorAl querySelector - metody wolniejsze
+
+
+
+
+
+
+
+
+
+
+
+
+

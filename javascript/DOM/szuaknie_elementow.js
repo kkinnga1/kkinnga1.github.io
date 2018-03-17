@@ -40,13 +40,18 @@ for (var i = 0; i< mojelinki.length; i++) {
     console.log("----------------");
 }
 
-
+//petla forEach diala na kolekcji pobranej za pomoca metody documet.querySelectorAll()
 mojelinki.forEach(function(element, index){
     console.log(element);
 });
 
 
 
+//kazdy element na stronie jest welem nodem do wezla nanleza atrybuty komentarze, wszystko co tam znajdzeimy
+//nadrzednym rodzicem jest html
+//html to root czyli korzen czyli nie ma rodzica
+//wezly moga posiadac dzieci ale nie msusza
+//parentElement
 
 
 

@@ -36,3 +36,25 @@ link.parentElement.insertBefore(newElement, link);
 //usuwanie atrybutow
 link.removeAttribute('class');
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

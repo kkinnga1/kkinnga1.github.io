@@ -9,7 +9,7 @@ mainHeader.innerHTML = "<span>Nowa zawartosc h1 wstawiona w span</span>";
 
 //zmiana styli
 mainHeader.style.color = "red";
-mainHeader.style.backgroundColor = "red";
+/*mainHeader.style.backgroundColor = "red";*/
 
 //przypisanie klasy
 mainHeader.className = "headingtext";

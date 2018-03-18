@@ -1,3 +1,4 @@
+
 var paragraf = document.getElementById('par2');
 
 //sposob1
@@ -54,18 +55,13 @@ title.addEventListener("click", bodyColor);*/
 
 
 //blokowanie domyslnego dzialania elementow 
+/*
 
 document.querySelector(".link1").addEventListener('click', function(event){
     event.preventDefault();
     console.log("Kliknąłem link klasy .link1")
     
 })
-
-
-
-
-
-
 
 
 

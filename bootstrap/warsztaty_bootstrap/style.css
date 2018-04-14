@@ -1,0 +1,114 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(img/header/pictures_on_the_wall.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-fluid {
+    margin-top: 100px;
+}
+
+#title {
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+nav,
+h1,
+h2,
+button {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#main-nav a:hover {
+    color: #0ed8d6;
+}
+
+#main-nav a:link {color:white;} 
+/*SEKCJA DRUGA*/
+
+.container .container-fluid h2,
+p {
+    text-align: center;
+}
+
+
+/*ostylowanie ikonek w sekcji drugiej*/
+
+svg:not(:root).svg-inline--fa {
+    font-size: 50px;
+    padding: 10px;
+    color: white;
+    border: 2px solid #0ed8d6;
+    background-color: #0ed8d6;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+}
+
+
+/*animacja ikonek*/
+
+svg:not(:root).svg-inline--fa:hover {
+    animation: roll 3s infinite;
+    transform: rotate(30deg);
+    opacity: .7;
+    ;
+}
+
+@keyframes roll {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+/*SEKCJA TRZECIA - portfolio*/
+
+img {
+    width: 100%;
+}
+
+.obraz {
+    height: 230px;
+    overflow: hidden;
+}
+
+
+/*SEKCJA CZWARTA - OUR TEAM*/
+
+.team {
+    width: 300px;
+    height: 300px;
+    border-radius: 180px;
+}
+
+
+/*SEKCJA PIĄTA - FORMULARZ KONTAKTOWY*/
+
+#form {
+    background-image: url(img/footer/world-map.jpg);
+    height: 100vh;
+}
+
+/*SEKCJA SZÓSTA: STOPKA*/
+
+footer{text-align: center;
+                               
+
+}
+
+
